@@ -1,4 +1,4 @@
-@url = https://todos.showcode.dk/api
+@url = https://todo.showcode.dk/api
 @jwt_token =eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb24gQmVydGVsc2VuIiwic3ViIjoiYWxmIiwiZXhwIjoxNzMzMzg4ODEwLCJyb2xlcyI6InVzZXIiLCJ1c2VybmFtZSI6ImFsZiJ9.HaFobpHeFBR8CuJ5LPotwzncLi3GgHYJPHe9INQ2zc0
 ###
 GET {{url}}/todos
